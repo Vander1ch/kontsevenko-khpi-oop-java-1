@@ -1,0 +1,9 @@
+﻿java : java version "21.0.12.1" 2026-08-18 LTS
+строка:1 знак:1
++ java -version 2>&1 | Out-File -Encoding utf8 evidence\java_version.tx ...
++ ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (java version "21.0.12.1" 2026-08-18 LTS:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Java(TM) SE Runtime Environment (build 21.0.12.1+1-LTS-4)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.12.1+1-LTS-4, mixed mode, sharing)

@@ -1,0 +1,5 @@
+﻿Java version: 21.0.12.1
+Java vendor: Oracle Corporation
+Operating system: Windows 11
+User: kiril
+Working directory: C:\Users\kiril\kontsevenko-khpi-oop-java-1
