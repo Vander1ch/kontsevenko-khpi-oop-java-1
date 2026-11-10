@@ -5,7 +5,7 @@
 - **Варіант:** 12 (Циліндричний резервуар)  
 - **Репозиторій:** [kontsevenko-khpi-oop-java-1](https://github.com/Vander1ch/kontsevenko-khpi-oop-java-1.git)  
 - **Гілка:** `lab03`  
-- **Pull Request:** [URL до твого Pull Request]  
+- **Pull Request:** [https://github.com/Vander1ch/kontsevenko-khpi-oop-java-1/pull/2]  
 
 ---
 
